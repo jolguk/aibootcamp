@@ -1,1 +1,2 @@
 # aibootcamp
+My first attempt uses sepal length and width since they seemed to show the most variation, and the second uses sepal length and petal length. The first one results in a better silhouette score. 
